@@ -4,7 +4,7 @@ This is a helper script that assists to merge multiple pdf documents.
 Ensure your pdf document sizes are of the same size: Eg: Letter/A4
 
 example execution:
--> python merger.py -p "folder with pdfs" -o "merged file name.pdf" -f *
+-> python merger.py -p "folder with pdfs" -o "merged file name.pdf" -f all
 -> python merger.py -p "folder with pdfs" -o "merged file name.pdf" -f ab.pdf 1.pdf 01.pdf
 """
 
